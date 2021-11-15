@@ -4,17 +4,17 @@ Aplicación construida con React que busca y muestra gifs animados.
 
 ## Dependencias
 
-### `Animate.css`
+### Animate.css
 
-### `Enzyme`
+### Enzyme
 
-### `enzyme-to-json`
+### enzyme-to-json
 
-### `React Hooks Testing Library`
+### React Hooks Testing Library
 
 ## API
 
-### Giphy
+### Giphy 
 
 ## Instalación
 
