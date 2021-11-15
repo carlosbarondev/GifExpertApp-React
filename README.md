@@ -2,8 +2,6 @@
 
 Aplicación construida con React que busca y muestra gifs animados.
 
-<br>
-
 ## Dependencias
 
 - Animate.css
@@ -14,13 +12,9 @@ Aplicación construida con React que busca y muestra gifs animados.
 
 - React Hooks Testing Library
 
-<br>
-
 ## API
 
 - Giphy
-
-<br>
 
 ## Instalación
 
